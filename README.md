@@ -1,0 +1,1 @@
+El proyecto es una pagina Web dinamica donde se pasea por cada ventada y hay un registro de usuario, implementando las herramientas de CSS y realizando conexiones al MySQL como database.
